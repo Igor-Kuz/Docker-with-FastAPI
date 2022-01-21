@@ -1,5 +1,3 @@
-# Dockerfile
-
 # pull the official docker image
 FROM python:3.9.4-slim
 
